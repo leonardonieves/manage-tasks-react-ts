@@ -176,7 +176,7 @@ function TaskList() {
           swal.fire({
             toast: true,
             title: "Success",
-            text: 'Task successfully added',
+            text: 'Task successfully deleted',
             position: "top-right",
             allowEscapeKey: false,
             showConfirmButton: false,
